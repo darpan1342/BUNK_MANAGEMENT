@@ -1,0 +1,8 @@
+Name: darpan
+attended: 12
+total lectures: 32
+No. of lectures to get back into safe zone: 48
+Name: avasthi
+attended: 32
+total lectures: 34
+max bunks allowed: 8
